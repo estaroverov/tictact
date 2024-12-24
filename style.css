@@ -1,0 +1,20 @@
+body{
+    background: #d5eae8;
+  }
+  .cell{
+    background:#FFFFFF;
+    width:50px;
+    height:50px;
+  }
+
+  table{
+    margin:auto;
+  }
+
+  td.cell{
+    text-align: center;
+    vertical-align: center;
+    font-size: 30px;
+  }
+
+  
